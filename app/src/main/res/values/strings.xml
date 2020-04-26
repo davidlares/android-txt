@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TxtApp</string>
+    <string name="title">Enter text to save</string>
+    <string name="save">Save</string>
+</resources>
